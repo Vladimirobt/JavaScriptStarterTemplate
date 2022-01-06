@@ -1,3 +1,3 @@
-# My Game is Cool!
+# Basics
 
-Make sure you give it a good description here...
+this is quite pog because I will remember the basics (:
