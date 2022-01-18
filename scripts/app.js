@@ -20,3 +20,9 @@ let aceOfSpades = {
 };
 
 console.log(aceOfSpades.toString());
+// arrays are colections of data
+let agesOtable1 = [13, 23, 33];
+
+console.log(agesOtable1[2]);
+
+let namesAndAges = ["Hunter", 13, "Patrick", 14, "Tanner", 14.8];
